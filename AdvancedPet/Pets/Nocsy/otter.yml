@@ -1,0 +1,11 @@
+Id: Otter
+MythicMob: NocsyOtter
+Permission: advancedpet.otter
+Mountable: false
+DespawnSkill: Nocsy_Otter_Despawn
+Distance: 3
+Icon:
+  Name: §bOtter
+  TextureBase64: ewogICJ0aW1lc3RhbXAiIDogMTYzMDgwNDc0OTY1NCwKICAicHJvZmlsZUlkIiA6ICIyMDA2NTVkMjMyYTE0MTc2OGIwNjQ0NWNkNTliNDg3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaWVzdHlCbHVlXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MGNhOTNlYjYzYzQ3MGM3OGYxMGM3NmYyOTAyYWQ3ODNjNDI2NjUzOWFlNTA5NzIyZmNkOWIyZTIzMDBhOTIiCiAgICB9CiAgfQp9
+  Description:
+  - §7A cutie that will follow you everywhere !
