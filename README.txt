@@ -20,19 +20,7 @@ B. Get the models ready
 
 C. Add the pet to AdvancedPet
 
-Get into the config.yml of AdvancedPet and add the following in the "Pets" section :
-
-  Otter:
-    MythicMob: NocsyOtter
-    Permission: advancedpet.otter
-    Mountable: false
-    DespawnSkill: Nocsy_Otter_Despawn
-    Distance: 3
-    Icon:
-      Name: §bOtter
-      TextureBase64: ewogICJ0aW1lc3RhbXAiIDogMTYzMDgwNDc0OTY1NCwKICAicHJvZmlsZUlkIiA6ICIyMDA2NTVkMjMyYTE0MTc2OGIwNjQ0NWNkNTliNDg3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaWVzdHlCbHVlXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MGNhOTNlYjYzYzQ3MGM3OGYxMGM3NmYyOTAyYWQ3ODNjNDI2NjUzOWFlNTA5NzIyZmNkOWIyZTIzMDBhOTIiCiAgICB9CiAgfQp9
-      Description:
-      - §7A cutie that will follow you everywhere !
+Take the folder "AdvancedPet" and put it directly into your "plugins" folder. The file will merge and add the otter to the pack.
 
 Then get in game and make sure to reload the plugin with /advancedpet reload
 
