@@ -1,4 +1,4 @@
-# AdvancedPet-Demo
+# AdvancedPet-Demo r0.2.0
 Sleepy – the Otter
 
 This pet is an example of what you can do with AdvancedPet.
